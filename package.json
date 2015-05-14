@@ -1,0 +1,33 @@
+{
+  "name": "three-commonjsify",
+  "version": "0.0.1",
+  "description": "compiles the THREE.js source in commonJS format",
+  "main": "./compile.js",
+  "dependencies": {
+    "escodegen": "^1.6.1",
+    "espree": "^2.0.2",
+    "minimist": "^1.1.1",
+    "mkdirp": "^0.5.0",
+    "nodes": "^0.1.0",
+    "pathogen": "^0.2.0",
+    "promise": "^7.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "THREE.js",
+    "commonJS"
+  ],
+  "author": {
+    "name": "Valerio Proietti",
+    "email": "kamicane@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamicane/three-commonjsify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamicane/three-commonjsify.git"
+  },
+  "homepage": "https://github.com/kamicane/three-commonjsify"
+}

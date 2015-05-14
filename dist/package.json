@@ -1,0 +1,32 @@
+{
+  "name": "three.cjs",
+  "version": "0.71.0",
+  "description": "THREE.js in commonJS format, generated with three-commonjsify",
+  "keywords": [
+    "3D",
+    "WebGL",
+    "Three",
+    "ThreeJS",
+    "CSS",
+    "engine",
+    "rendering",
+    "geometry",
+    "math"
+  ],
+  "author": {
+    "name": "three.js contributors"
+  },
+  "bugs": {
+    "url": "https://github.com/kamicane/three-commonjsify/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamicane/three-commonjsify.git"
+  },
+  "homepage": "https://github.com/kamicane/three-commonjsify",
+  "main": "./index.js",
+  "license": {
+    "type": "The MIT License",
+    "url": "https://raw.github.com/mrdoob/three.js/master/LICENSE"
+  }
+}
